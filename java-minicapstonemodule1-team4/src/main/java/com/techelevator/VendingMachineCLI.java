@@ -149,11 +149,7 @@ public class VendingMachineCLI {
 			} while (!(mainChoice.equalsIgnoreCase("3")));
 		} catch(IOException e){
 			System.out.println("oops you just broke me :( ");
-//		} catch(NullPointerException e){
-//			System.out.println("Item does not exist");
-//		}
-//		catch(NumberFormatException e){
-//			System.out.println("Write it differently");
+
 		}
 	}
 }
