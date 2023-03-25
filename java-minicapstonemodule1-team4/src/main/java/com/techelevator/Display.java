@@ -8,7 +8,7 @@ public class Display {
     VendingMachineCLI vending = new VendingMachineCLI();
     List<StuffedAnimals> animals = new ArrayList<>();
     MoneyHolder money = new MoneyHolder();
-    Menus menu = new Menus(); // Menu's which hold user choices
+    Menus menu = new Menus(); // Menus that hold user choices
 
 
 
